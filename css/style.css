@@ -1,10 +1,10 @@
 div{
     text-align: end;
-    color: black;
+    /* color: black; */
 }
 footer{
     text-align: left;
-    color: black;
+    /* color: black; */
     background-color: lightgray;
 }
 nav{
