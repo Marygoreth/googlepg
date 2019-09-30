@@ -1,12 +1,6 @@
-/* body{
-    text-align: center; */
+div{
+    text-align: end;
 }
-a:1 {
-    text-align: right;
-}
-a:2 {
+div.footer{
     text-align: left;
-}
-a:link{
-    text-align: center;
 }

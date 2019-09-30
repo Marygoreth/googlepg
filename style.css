@@ -1,0 +1,34 @@
+div{
+    text-align: end;
+    color: black;
+}
+footer{
+    text-align: left;
+    color: black;
+    background-color: lightgray;
+}
+nav{
+    text-align: end;
+}
+.content{
+    text-align: center;
+}
+.color{
+    color: rgb(38, 85, 172);
+}
+span{
+    color: red;
+}
+
+#green{
+    color: green
+}
+#yellow{
+    color: yellow;
+}
+.end{
+    position: relative;
+    left: 830px;
+    color: black;
+    /* float:right; */
+}
